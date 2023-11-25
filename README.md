@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheSaltWaiter
-- 👀 I’m interested in gaming, football(european), music, and recently coding
+- 👀 I’m interested in gaming, football(european), music, and recently coding/game dev
 - 🌱 I’m currently learning my first coding language that is python
 
 <!---
