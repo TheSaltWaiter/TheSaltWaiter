@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Bryan.
-- 👀 I’m interested in gaming, football(european), music, and recently coding/game dev
+- 👀 My Interests: Art, Football(Soccer), Music, Manga/Manwha, Game Development, D&D, Gaming overall and Food
 - 🌱 May 2024, finished Coursera Google Course for Automation with Python
-- I'm in the progress of creating my first game in GameMaker
-- Creating art and programming code for my game
+- I'm currently in development of my first game in GameMaker Studio 2
+- Creating art, music and programming code for my game
